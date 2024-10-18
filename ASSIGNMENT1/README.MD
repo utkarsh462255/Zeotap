@@ -35,8 +35,8 @@ This project implements a simple 3-tier rule engine application using C++ and Mo
 3. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd rule-engine-cpp
+   git clone https://github.com/utkarsh462255/Zeotap.git
+   cd ASSIGNMENT1
 
    ```
 

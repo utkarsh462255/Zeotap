@@ -22,7 +22,7 @@ This project is a weather data aggregator and alert system that fetches current 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-data-aggregator.git`
+1. Clone the repository: `git clone https://github.com/utkarsh462255/Zeotap.git`
 2. Install dependencies:
    - `sudo apt-get install libcurl4-openssl-dev` (for `curl` library)
    - `sudo apt-get install libmongoc-dev` (for `mongocxx` library)
